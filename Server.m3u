@@ -132,13 +132,13 @@ https://drive.google.com/uc?export=download&id=1Qt4Txy1jRwKNFp6W_oljgpWmCW3B7QqX
 ########## LIVES ##########
 
 #EXTINF:-1 tvg-id="" type="live" tvg-name="BaianoTV Twitch" tvg-logo="https://files.kick.com/images/user/59390327/profile_image/065863b2-768b-465e-a6fb-e96eb9e68028" group-title="LIVE",BaianoTV Twitch
-https://bit.ly/486eS9P
+https://bit.ly/3WjmGxH
 
 #EXTINF:-1 tvg-id="" type="live" tvg-name="BaianoTV Kick" tvg-logo="https://files.kick.com/images/user/59390327/profile_image/065863b2-768b-465e-a6fb-e96eb9e68028" group-title="LIVE",BaianoTV Kick
 https://drive.google.com/uc?export=download&id=1IFVPbIOQh6W9mWB4CBdXBY6YcvJNnZvt
 
-#EXTINF:-1 tvg-id="" type="live" tvg-name="Gaules Kick" tvg-logo="https://files.kick.com/images/user/59390327/profile_image/065863b2-768b-465e-a6fb-e96eb9e68028" group-title="LIVE",Gaules Kick
-https://bit.ly/46LHdzU
+#EXTINF:-1 tvg-id="" type="live" tvg-name="Gaules Kick" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f4b12683-57ff-4b57-926a-67512b43a7ff-profile_image-300x300.png" group-title="LIVE",Gaules Kick
+https://bit.ly/474XSj8
 
 ########## CANAIS ESPORTES ##########
 
@@ -147,5 +147,6 @@ https://nanacloud.filevideo.live/Sb9KrF5pLq/index.m3u8
 
 #EXTINF:-1 tvg-id="" type="live" tvg-name="Nosso Futebol 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/Logotipo_nosso_futebol.png" group-title="CANAIS",Nosso Futebol 2
 https://nanacloud.filevideo.live/Sb9KrF5pLq/index.m3u8
+
 
 
